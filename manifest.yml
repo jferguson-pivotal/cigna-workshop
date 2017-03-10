@@ -1,0 +1,7 @@
+---
+applications:
+- name: putnam-workshop
+  memory: 512M 
+  instances: 1
+  host: putnam
+  
